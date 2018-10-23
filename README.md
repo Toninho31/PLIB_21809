@@ -35,16 +35,17 @@ HOW TO USE IT:
 Release: PLIB_21809
 ----------------------------------------------------------------------
 - Initiale release
+
 						 ________________
-						|				         |		Project Library (.x)
+						|		 |		Project Library (.x)
 						|   PLIB_xxxxx   |	as 			or
 						|________________|		Compiled Library (.a)
 								
-								    |
-								    |	(PLIB.h)
-								    v
+							|
+							|	(PLIB.h)
+							v
 						 ________________
-						|				         |	main.c / interrupt.c
+						|		 |	main.c / interrupt.c
 						|   User Prog.   |	config.h / config.c
 						|________________|	...	
 
