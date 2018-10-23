@@ -8,8 +8,10 @@ Prototype Library ver. September 18
 HARDWARE BASED ON: 
 -----------------
 - BLE PICKIT rev.C (Prototype dev.) or ETH PICKIT
+
 			+
 - Ethernet Starter KIT II (PIC32MX795F512L)
+
 			+
 - PICAdapter rev.D (Prototype dev.)
 
@@ -38,7 +40,7 @@ Release: PLIB_21809
 
 						 ________________
 						|		 |		Project Library (.x)
-						|   PLIB_xxxxx   |	as 			or
+						|   PLIB_xxxxx   |	as 		or
 						|________________|		Compiled Library (.a)
 								
 							|
