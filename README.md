@@ -1,11 +1,10 @@
 # PLIB_21809
 Prototype Library ver. September 18
 
-Target: SPCB - (S)tandard (P)rototype (C)alculator (B)oard
-
-
 HARDWARE BASED ON: 
 -----------------
+Target: SPCB - (S)tandard (P)rototype (C)alculator (B)oard
+
 - BLE PICKIT rev.C (Prototype dev.) or ETH PICKIT
 - Ethernet Starter KIT II (PIC32MX795F512L)
 - PICAdapter rev.D (Prototype dev.)
