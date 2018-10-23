@@ -1,18 +1,19 @@
 # PLIB_21809
+
 Prototype Library ver. September 18
 
-HARDWARE BASED ON: 
------------------
-Target: SPCB - (S)tandard (P)rototype (C)alculator (B)oard
+## HARDWARE BASED ON:
 
-- BLE PICKIT rev.C (Prototype dev.) or ETH PICKIT
-- Ethernet Starter KIT II (PIC32MX795F512L)
-- PICAdapter rev.D (Prototype dev.)
+Target: ***SPCB*** - (**S**)tandard (**P**)rototype (**C**)alculator (**B**)oard
+
+- BLE PICKIT rev.C (*Prototype dev.*) or ETH PICKIT
+- Ethernet Starter KIT II (*PIC32MX795F512L*)
+- PICAdapter rev.D (*Prototype dev.*)
 
 
-HOW TO USE IT:
--------------
-1. Include the file "PLIB.h" into your project:
+## HOW TO USE IT:
+
+1. Include the file "PLIB.h" into your project:/n
 		- In your project, open the file "config.h" and include PLIB.h
 		#include "../PLIB_21809/PLIB.h"
 		- Then add the file "PLIB.h" into your project. Right click on Header Files folder and Add Existing Item...
