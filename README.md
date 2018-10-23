@@ -1,8 +1,7 @@
 # PLIB_21809
 Prototype Library ver. September 18
 
--   VALEO BOB - Standard Prototype Library
--   Target: SPCB - (S)tandard (P)rototype (C)alculator (B)oard
+Target: SPCB - (S)tandard (P)rototype (C)alculator (B)oard
 
 
 HARDWARE BASED ON: 
